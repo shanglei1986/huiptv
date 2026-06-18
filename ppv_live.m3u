@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/7759e49d995ae6ec03cdc47e1e31ee2c-thumbnail.jpg",06/20 07:30-11:00 BC Lions vs. Hamilton Tiger-Cats
+http://192.168.123.159:11458/stream?uri=cfl/2026-06-19/bc-ham
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/67ffdb3628a436114baa101077b6a29a-thumbnail.jpg",06/21 00:00-03:30 Paris Lights vs. Alpine Rams
+http://192.168.123.159:11458/stream?uri=afle/2026-06-20/par-alp
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/e67a044783c1549e59ae7c8873502047-thumbnail.jpg",06/21 01:00-04:30 Toronto Argonauts vs. Ottawa RedBlacks
+http://192.168.123.159:11458/stream?uri=cfl/2026-06-20/tor-ott
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",06/21 04:00-07:30 Montreal Alouettes vs. Edmonton Elks
+http://192.168.123.159:11458/stream?uri=cfl/2026-06-20/mtl-edm
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/93231d58f574e1a75128f898624f4b94-thumbnail.jpg",06/21 07:00-10:30 Saskatchewan Roughriders vs. Calgary Stampeders
+http://192.168.123.159:11458/stream?uri=cfl/2026-06-20/ssk-cgy
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/38b44ae606bfcb3d3bc80d2e13dd6db8-thumbnail.jpg",06/21 21:00-00:30 Vienna Vikings vs. London Warriors
+http://192.168.123.159:11458/stream?uri=afle/2026-06-21/vie-lon
+#EXTINF:-1 group-title="American Football" tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg",06/21 23:10-02:40 Berlin Thunder vs. Rhein Fire
+http://192.168.123.159:11458/stream?uri=afle/2026-06-21/ber-rhe
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg",06/18 18:10-21:10 Fremantle vs. Geelong Cats
+http://192.168.123.159:11458/stream?uri=afl/2026-06-18/fre-geel
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/45e27731fd1a84d3a01c0795000e4746-thumbnail.jpg",06/19 17:40-20:40 Gold Coast SUNS vs. Hawthorn
+http://192.168.123.159:11458/stream?uri=afl/2026-06-19/gcfc-haw
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/9ec6670606b2ffe9548010a834ea998e-thumbnail.jpg",06/20 11:15-14:15 Adelaide Crows vs. Melbourne
+http://192.168.123.159:11458/stream?uri=afl/2026-06-20/adel-melb
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/141e3b0497f6d37d9da7d4f2a06ad918-thumbnail.jpg",06/20 14:15-17:15 GWS GIANTS vs. Carlton
+http://192.168.123.159:11458/stream?uri=afl/2026-06-20/gws-carl
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/89a51c42fe2d08ea964d139ef732eaf8-thumbnail.jpg",06/20 17:35-20:35 Collingwood vs. Port Adelaide
+http://192.168.123.159:11458/stream?uri=afl/2026-06-20/coll-port
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/b121b6e3326b8d8e6b2b8c9841c4890f-thumbnail.jpg",06/21 11:10-14:10 Richmond vs. North Melbourne
+http://192.168.123.159:11458/stream?uri=afl/2026-06-21/rich-nmfc
+#EXTINF:-1 group-title="Australian Football" tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg",06/21 13:15-16:15 St Kilda vs. Western Bulldogs
+http://192.168.123.159:11458/stream?uri=afl/2026-06-21/stk-wb
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg",06/17 09:40-13:10 Los Angeles Angels vs. Arizona Diamondbacks
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-16/laa-ari
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg",06/17 09:40-13:10 Baltimore Orioles vs. Seattle Mariners
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-16/bal-sea
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg",06/17 09:40-13:10 Pittsburgh Pirates vs. Athletics
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-16/pit-ath
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg",06/17 10:10-13:40 Tampa Bay Rays vs. Los Angeles Dodgers
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-16/tb-lad
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",06/18 00:40-04:10 New York Mets vs. Cincinnati Reds
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/nym-cin
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/35abebb4fe7889aea82cef7cfd478895-thumbnail.jpg",06/18 01:05-04:35 Kansas City Royals vs. Washington Nationals
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/kc-wsh
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/3af831a52eaa2d58ce8f27cdfe7ba9a0-thumbnail.jpg",06/18 01:05-04:35 Miami Marlins vs. Philadelphia Phillies
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/mia-phi
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg",06/18 02:10-05:40 Detroit Tigers vs. Houston Astros
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/det-hou
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg",06/18 02:15-05:45 San Diego Padres vs. St. Louis Cardinals
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/sd-stl
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg",06/18 03:10-06:40 Tampa Bay Rays vs. Los Angeles Dodgers
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/tb-lad
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg",06/18 03:40-07:10 Los Angeles Angels vs. Arizona Diamondbacks
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/laa-ari
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg",06/18 06:45-10:15 Toronto Blue Jays vs. Boston Red Sox
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/tor-bos
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",06/18 07:05-10:35 Chicago White Sox vs. New York Yankees
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/chw-nyy
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",06/18 07:15-10:45 San Francisco Giants vs. Atlanta Braves
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/sf-atl
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",06/18 07:40-11:10 Cleveland Guardians vs. Milwaukee Brewers
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/cle-mil
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/74367630089ec91d5fb3d7d6f8f86fa3-thumbnail.jpg",06/18 08:05-11:35 Colorado Rockies vs. Chicago Cubs
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/col-chc
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg",06/18 09:40-13:10 Baltimore Orioles vs. Seattle Mariners
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/bal-sea
+#EXTINF:-1 group-title="Baseball" tvg-logo="https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg",06/18 09:40-13:10 Pittsburgh Pirates vs. Athletics
+http://192.168.123.159:11458/stream?uri=mlb/2026-06-17/pit-ath
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/d05aef85ac30138c8f6438596826e2e8-thumbnail.jpg",06/18 07:00-10:00 Washington Mystics vs. Connecticut Sun
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/wsh-con
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/9cfa911c403b20909820c79c64ebe5de-thumbnail.jpg",06/18 08:00-11:00 New York Liberty vs. Chicago Sky
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/ny-chi
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/baac88908e57154173f5287b2fd679ae-thumbnail.jpg",06/18 10:00-13:00 Dallas Wings vs. Golden State Valkyries
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/dal-gs
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/b56a9af83a7c556fd3854216aee9b87f-thumbnail.jpg",06/18 10:00-13:00 Minnesota Lynx vs. Los Angeles Sparks
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/min-la
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/2fe0ea272ed08acef8fc82a9b8151d23-thumbnail.jpg",06/18 10:00-13:00 Las Vegas Aces vs. Phoenix Mercury
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/lv-phx
+#EXTINF:-1 group-title="Basketball" tvg-logo="https://api.ppv.to/assets/thumb/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg",06/18 10:00-13:00 Seattle Storm vs. Portland Fire
+http://192.168.123.159:11458/stream?uri=wnba/2026-06-17/sea-por
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/a1d41befd3fabb5f9d5645abc9490d01-thumbnail.jpg",06/17 12:00-14:30 Austria vs. Jordan
+http://192.168.123.159:11458/stream?uri=wc/2026-06-16/aut-jor
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/75f0e5165446dfd54fdb7ef1596d6ad2-thumbnail.jpg",06/18 01:00-03:30 Portugal vs. Congo DR
+http://192.168.123.159:11458/stream?uri=wc/2026-06-17/por-cod
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/3aac7801fbffbc6eedf3ac476ed4ce1d-thumbnail.jpg",06/18 04:00-06:30 England vs. Croatia
+http://192.168.123.159:11458/stream?uri=wc/2026-06-17/eng-cro
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/4e28516caf2dc6109efa0f5c6af98c03-thumbnail.jpg",06/18 07:00-09:30 Ghana vs. Panama
+http://192.168.123.159:11458/stream?uri=wc/2026-06-17/gha-pan
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/26148b64f7db864ef3a9dc00f1122c40-thumbnail.jpg",06/18 10:00-12:30 Uzbekistan vs. Colombia
+http://192.168.123.159:11458/stream?uri=wc/2026-06-17/uzb-col
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/dc557d38db6b0044dc5799fab13c5e64-thumbnail.jpg",06/19 00:00-02:30 Czechia vs. South Africa
+http://192.168.123.159:11458/stream?uri=wc/2026-06-18/cze-rsa
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/c74f341f16d2a8721199312543c52e62-thumbnail.jpg",06/19 03:00-05:30 Switzerland vs. Bosnia-Herzegovina
+http://192.168.123.159:11458/stream?uri=wc/2026-06-18/sui-bih
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/13c6171581ad666d7f581701ad9cff04-thumbnail.jpg",06/19 06:00-08:30 Canada vs. Qatar
+http://192.168.123.159:11458/stream?uri=wc/2026-06-18/can-qat
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/843e05a773eb43ee7ee39cefc739f5fe-thumbnail.jpg",06/19 09:00-11:30 Mexico vs. South Korea
+http://192.168.123.159:11458/stream?uri=wc/2026-06-18/mex-kor
+#EXTINF:-1 group-title="Football" tvg-logo="https://api.ppv.to/assets/thumb/4e44af48b56ccb3bd87b68c2c0a26876-thumbnail.jpg",06/21 03:00-05:30 Almería vs. Málaga
+http://192.168.123.159:11458/stream?uri=laliga-2/2026-06-20/alm-mcf
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/748c23f75bda947137a2c347d2154f2e-thumbnail.jpg",06/17 18:05-20:35 New South Wales vs. Queensland
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-17/new-que
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/a6234ffcd973f2d22b65f051da4bb31b-thumbnail.jpg",06/19 18:00-20:30 Knights vs. Dragons
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-19/new-st.
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/30c46083eb18055de074f5a6a6e2e0c8-thumbnail.jpg",06/20 13:00-15:30 Wests Tigers vs. Dolphins
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-20/wes-dol
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/80b5d073b41e918855d83afa6314e90e-thumbnail.jpg",06/20 15:30-18:00 Titans vs. Panthers
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-20/gol-pen
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/ae3467b32b9fbe99ebf669d0127757e8-thumbnail.jpg",06/20 17:35-20:05 Bulldogs vs. Sea Eagles
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-20/can-man
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg",06/21 12:00-14:30 Warriors vs. Cowboys
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-21/new-nor
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg",06/21 14:05-16:35 Storm vs. Raiders
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-21/mel-can
+#EXTINF:-1 group-title="Rugby" tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg",06/21 16:15-18:45 Roosters vs. Sharks
+http://192.168.123.159:11458/stream?uri=nrl/2026-06-21/syd-cro
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/d3ada7f5281c61306bedfddf810c479e-thumbnail.jpg",06/17 12:00-15:30 Dominican Republic vs. USA
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/dom-usa
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/ad5807a599478f05c44b62e20ea3db4c-thumbnail.jpg",06/17 14:00-17:30 Canada vs. Netherlands
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/can-net
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/37cc962d08da3872204f76626c7a32cf-thumbnail.jpg",06/17 16:00-19:30 Czechia vs. Italy
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/cze-ita
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/6f63d6d68abe721a28d0aebaf311dacc-thumbnail.jpg",06/17 17:30-21:00 Germany vs. China
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/ger-chi
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/8470760d0b0566e9a462cb62c95b295f-thumbnail.jpg",06/17 18:00-21:30 Bulgaria vs. Poland
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/bul-pol
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/cfd0de658b31832e8d6e4114769ce4f7-thumbnail.jpg",06/17 20:00-23:30 Japan vs. Serbia
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/jap-ser
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/911abd0b8608fce88a0579417eb66f11-thumbnail.jpg",06/17 21:00-00:30 France vs. Brazil
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/fra-bra
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/aff3769e37bca0434c113657b7f25103-thumbnail.jpg",06/17 21:30-01:00 Thailand vs. Ukraine
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/tha-ukr
+#EXTINF:-1 group-title="Volleyball" tvg-logo="https://api.ppv.to/assets/thumb/794ba07b95429ab41583131bdef9fda1-thumbnail.jpg",06/18 00:30-04:00 Türkiye vs. Belgium
+http://192.168.123.159:11458/stream?uri=womensvnl/2026-06-17/tür-bel
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",06/18 08:00-11:00 AEW: Wednesday Night Dynamite
+http://192.168.123.159:11458/stream?uri=aew/dynamite/2026-06-17
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",06/19 09:00-12:00 TNA: Impact
+http://192.168.123.159:11458/stream?uri=tna/impact/2026-06-18
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",06/20 08:00-11:00 WWE: Friday Night Smackdown
+http://192.168.123.159:11458/stream?uri=wwe/smackdown/2026-06-19
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",06/21 08:00-11:00 AEW: Saturday Night Collision
+http://192.168.123.159:11458/stream?uri=aew/collision/2026-06-20
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg",24/7 South Park
+http://192.168.123.159:11458/stream?uri=247-south-park
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",01/18 13:00-04:00 24/7 COWS
+http://192.168.123.159:11458/stream?uri=247-cows
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg",01/18 16:00-17:00 24/7 Family Guy
+http://192.168.123.159:11458/stream?uri=247-family-guy
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg",01/18 18:28-18:28 24/7 The Simpsons
+http://192.168.123.159:11458/stream?uri=247-the-simpsons
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://api.ppv.to/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg",01/28 08:00-11:00 24/7 SpongeBob Squarepants
+http://192.168.123.159:11458/stream?uri=247-spongebob-squarepants
+#EXTINF:-1 group-title="24/7 Streams" tvg-logo="https://api.ppv.to/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg",02/12 08:00-11:00 Rally TV
+http://192.168.123.159:11458/stream?uri=rally-tv
